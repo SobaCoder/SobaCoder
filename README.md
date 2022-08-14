@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SobaCoder, a backend dev for some time..
-- 👀 I’m interested in full stack and web development. 
-- 🌱 I’m currently learning full stack tech
+- 👀 I’m recently transitioned to frontend development 
+- 🌱 I’m currently learning react, redux, relay etc
 - 💞️ I’m looking to collaborate on front endy things
-- 📫 How to reach me ... dunno have not decided yet
+- 📫 My email is orenjii.cat@gmail.com. I have a cat
 
 <!---
 SobaCoder/SobaCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
